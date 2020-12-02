@@ -1,5 +1,7 @@
 ### Hey! I'm Darwin Waqaddi! 👋
 ---
+![Linkedin Badge](https://img.shields.io/badge/-dwaqaddi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waqaddi/)
+
 *Web Developer* at [EG+ Worldwide](https://www.egplusww.com/en/)
 
 - 🔭 I’m currently working on
@@ -10,7 +12,6 @@
 - 📫 How to reach me:
   - Email: dwaqaddi@gmail.com
   - Website: http://stokedninjas.com/
-  - Linkedin: https://www.linkedin.com/in/waqaddi/
 - ⚡ Fun fact:
   - I used to work as a mascot for events before i land my first web developer job
 
