@@ -1,5 +1,6 @@
 ### Hey! I'm Darwin Waqaddi! 👋
-
+---
+*Web Developer* at [EG+ Worldwide](https://www.egplusww.com/en/)
 
 - 🔭 I’m currently working on
   - Page Builder (Prestashop)
