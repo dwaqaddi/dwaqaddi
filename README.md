@@ -4,11 +4,8 @@
 
 *Web Developer* at [EG+ Worldwide](https://www.egplusww.com/en/)
 
-- 🔭 I’m currently working on
-  - Page Builder (Prestashop)
-  - I'm Hungry App (React)
-- 🌱 I’m currently taking
-  - Level 4 and 5 IT and Computing Diploma (ATHE)
+- 🔭 I’m currently working on Page Builder (Prestashop) and I'm Hungry App (React).
+- 🌱 I’m currently taking Level 4 and 5 IT and Computing Diploma (ATHE).
 - 📫 How to reach me:
   - Email: dwaqaddi@gmail.com
   - Website: http://stokedninjas.com/
