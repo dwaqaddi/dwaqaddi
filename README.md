@@ -1,6 +1,6 @@
 ### Hey! I'm Darwin Waqaddi! 👋
 ---
-![Linkedin Badge](https://img.shields.io/badge/-dwaqaddi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waqaddi/)
+[![Linkedin Badge](https://img.shields.io/badge/-dwaqaddi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waqaddi/)](https://www.linkedin.com/in/waqaddi/)
 
 *Web Developer* at [EG+ Worldwide](https://www.egplusww.com/en/)
 
