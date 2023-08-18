@@ -8,5 +8,5 @@
 - 📫 How to reach me:
   - Email: dwaqaddi@gmail.com
 - ⚡ Fun fact:
-  - I used to work as a mascot for events before i land my first web developer job
+  - Before landing my first web development job, I worked as an event entertainer dressed as a mascot.
 
