@@ -1,6 +1,5 @@
-### Hey! I'm Darwin Waqaddi! 👋
+### Hey! I'm Darwin! 👋
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-dwaqaddi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waqaddi/)](https://www.linkedin.com/in/waqaddi/)
 
 *Web Developer* 
 
