@@ -10,3 +10,6 @@
 - ⚡ Fun fact:
   - Before landing my first web development job, I worked as an event entertainer dressed as a mascot.
 
+*Google AI Studio*
+
+I created an app that transforms your photo into a caricature of a corrupt politician from the Philippines. https://politicianize-me.vercel.app/
