@@ -1,5 +1,5 @@
 # Hey! I'm Darwin! 👋
-📍 Singapore • Web Developer • Front-end & Full-stack • WordPress / PrestaShop / React
+📍 Singapore/Philippines • Web Developer • Front-end & Full-stack • WordPress / PrestaShop / React
 
 I turn ideas into pixel‑polished websites, EDMs, and banners. With 10+ years in agency life, I’ve shipped everything from fast front‑end builds to full‑stack eCommerce experiences.
 
