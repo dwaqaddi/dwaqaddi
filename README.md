@@ -58,11 +58,15 @@ I turn ideas into pixel‑polished websites, EDMs, and banners. With 10+ years i
   <img src="https://img.shields.io/badge/Bower-EF5734?style=for-the-badge&logo=bower&logoColor=white" />
   <img src="https://img.shields.io/badge/Yeoman-F37626?style=for-the-badge&logo=yeoman&logoColor=white" />
   <img src="https://img.shields.io/badge/Modernizr-000000?style=for-the-badge&logo=modernizr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/MJML-F45E43?style=for-the-badge&logo=mjml&logoColor=white" />
   <img src="https://img.shields.io/badge/Litmus-2F3C4C?style=for-the-badge&logo=litmus&logoColor=white" />
   <img src="https://img.shields.io/badge/Cerberus-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=white" />
   <img src="https://img.shields.io/badge/Sizmek-00AEEF?style=for-the-badge&logo=googleads&logoColor=white" />
   <img src="https://img.shields.io/badge/DoubleClick-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5_Banners-111827?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 **Automation & CRM**
