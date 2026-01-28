@@ -4,8 +4,6 @@
 I turn ideas into pixel‑polished websites, EDMs, and banners. With 10+ years in agency life, I’ve shipped everything from fast front‑end builds to full‑stack eCommerce experiences.
 
 ## Current Projects
-- 🔭 Building Page Builder (Prestashop) and Hungry App (React)
-- 🌱 Taking Level 4 & 5 IT and Computing Diploma (ATHE)
 - 🧪 Google AI Studio: Politicianize Me — https://politicianize-me.vercel.app/
 - ⚡ SnapRank — https://snaprank.io/
 
