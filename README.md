@@ -5,7 +5,7 @@ I turn ideas into pixel‑polished websites, EDMs, and banners. With 10+ years i
 
 ## Current Projects
 - 🧪 Google AI Studio: Politicianize Me — https://politicianize-me.vercel.app/
-- ⚡ SnapRank — https://snaprank.io/
+- ⚡ https://snaprank.io/ - The conversion layer for Local SEO
 
 ## Tech stack
 **Front-end**
